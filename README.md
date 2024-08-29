@@ -6,9 +6,9 @@ apt install python2
 
 apt install git
 
-git clone
+git clone https://github.com/BimbimProject/VIPDDOS.git
 
-cd
+cd VIPDDOS
 
 python2 VIPDDOS.py [ip target] [port] [jumlah ping]
 
